@@ -1,2 +1,2 @@
-# eprime_coop_PM_SL
+# eprime_coop_example
 example of one shot cooperation task (hawk-dove) on eprime
